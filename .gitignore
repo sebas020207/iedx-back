@@ -1,0 +1,8 @@
+venv
+./iedx/users/__pycache__/
+./iedx/media/*
+./iedx/quotes/__pycache__/
+./iedx/historical/__pycache__/
+__pycache__/
+*.py[cod]
+
